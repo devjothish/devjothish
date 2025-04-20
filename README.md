@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/jothiswaran"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:arumugam.jothiswaran@gmail.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail" alt="Email"></a>
   <a href="https://jothiswaranarumugam.framer.ai"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/newsletters/jo-s-cloud-ai-hub-7196656605017309186/"><img src="https://img.shields.io/badge/News?logo=news" alt="Newsletter"></a>
 </p>
 
 ---
@@ -19,6 +20,8 @@ I'm an AI/ML Engineer and a current Master’s student at Florida State Universi
 - 💡 Actively working on **RAG**, **CrewAI**, **Gemini**, **FAISS**, **MCP** and **MLOps pipelines**
 
 ---
+
+
 
 ### 🔧 Technologies & Tools
 
