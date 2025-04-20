@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jothiswaran Arumugam</h1>
-<h3 align="center">🚀 7x GCP Certified | GenAI & MLOps Engineer | LLM Infrastructure Enthusiast</h3>
+<h3 align="center">🚀 7x GCP Certified | GenAI & Cloud Engineer | LLM Infrastructure Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jothiswaran"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn"></a>
