@@ -38,3 +38,15 @@ I'm an AI/ML Engineer and a current Master’s student at Florida State Universi
 📊 Monitoring & Infra: Prometheus, Grafana, CI/CD, RBAC, IAM  
 🧮 Data & APIs: FAISS, Qdrant, FastAPI, Streamlit, Airflow, MongoDB, PostgreSQL  
 💻 Languages: Python, TypeScript, React.js, Bash, SQL
+```
+
+---
+### Featured Projects
+🔹 LegalAI - Multi-Agent Legal Risk Analyzer
+Built a collaborative LLM system using LangChain + MCP to simulate legal expert workflows. Reduced contract analysis time by 60%.
+
+🔹 CareerUp - GenAI Resume Matching Tool
+An agent-based system using CrewAI to compare resumes and job descriptions. Boosted alignment accuracy by 80%.
+
+🔹 ArXiv Analyst - Modular RAG Research Assistant
+Built with Gemini + Qdrant, enabling dynamic paper summarization and topic discovery for over 25K+ ArXiv docs.
