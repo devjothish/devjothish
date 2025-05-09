@@ -24,7 +24,7 @@ I'm an AI/ML Engineer and a current Master’s student at Florida State Universi
 🚀 I write about real-world AI engineering, GenAI pipelines, and deploying LLMs at scale.  
 🧠 Get practical tips on LangChain, Gemini, MLOps workflows, and building intelligent systems.
 
-📅 Published biweekly — join 420+ readers from the LinkedIn community.
+📅 Published biweekly — join 440+ readers from the LinkedIn community.
 
 👉 [Subscribe to "Jo's Cloud AI Hub"](https://www.linkedin.com/newsletters/jo-s-cloud-ai-hub-7196656605017309186/)
 
