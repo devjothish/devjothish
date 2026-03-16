@@ -10,7 +10,7 @@
 ---
 ### ✍️ I Write @ [Jo’s Cloud AI Hub](https://www.linkedin.com/newsletters/jo-s-cloud-ai-hub-7196656605017309186/)
 
-📅 Published biweekly — join 440+ readers from the LinkedIn community.
+📅 Published biweekly — join 495+ readers from the LinkedIn community.
 
 ---
 
