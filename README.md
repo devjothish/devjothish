@@ -14,5 +14,4 @@
 
 ---
 
-✨ **Let’s build AI systems that actually work.**
 
